@@ -1,5 +1,6 @@
 ﻿# 業務自動化スクレイピングアプリ
 webサイトから情報を収集してエクセルに転記する作業の自動化アプリです。CUI作成後、Flaskを使ったGUIも作成しました。\
+出典：[障害福祉サービス等情報公表システム](https://www.wam.go.jp/sfkohyoout/COP000100E0000.do)
 
 ## 目的
 初めてのアプリ作成でプログラミング基本概念、例外処理やエラーハンドリングの理解を目的に作成しました。\
@@ -14,6 +15,10 @@ webサイトから情報を収集してエクセルに転記する作業の自�
 <a href="https://www.youtube.com/watch?v=ZI2bqlXyj38">
 　<img src="https://img.youtube.com/vi/ZI2bqlXyj38/0.jpg" width="100%" alt="YouTubeで再生">
 </a>
+
+- 自動プログラムの場合：550件あたり12分で収集：**100件当たり約2分**
+- 手作業の場合：10件あたり12分で収集：**100件当たり約120分**
+- 手作業に比べて**約2時間の時間短縮**
 
 ## ブランチ構成
 
@@ -175,6 +180,7 @@ excelファイルパスを入力"C:\Users\Guest User\OneDrive\デスクトップ
 <div>
 <img src="images/250718放課後デイサービス自動化標準のコピー ‐ Clipchampで作成.gif" width="830px" height="435px" alt="入力画面gif">
 </div>
+
 
 
 
