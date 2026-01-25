@@ -7,8 +7,13 @@ webサイトから情報を収集してエクセルに転記する作業の自�
 以下が業務フローのBeforeとAfterです。
 
 ![業務フロー図](images/業務効率化フローチャート.drawio%20のコピー.drawio.png)
-[![スクレイピングプログラム_神奈川県横浜市](https://img.youtube.com/vi/ZI2bqlXyj38/0.jpg)](https://www.youtube.com/watch?v=ZI2bqlXyj38)
 
+<h3>
+  <span style="color: #ff0000;">▼ YouTube</span>：スクレイピングプログラム神奈川県横浜市‐ Clipchampで作成
+</h3>
+<a href="https://www.youtube.com/watch?v=ZI2bqlXyj38">
+　<img src="https://img.youtube.com/vi/ZI2bqlXyj38/0.jpg" width="80%" alt="YouTubeで再生">
+</a>
 
 ## ブランチ構成
 
@@ -170,6 +175,7 @@ excelファイルパスを入力"C:\Users\Guest User\OneDrive\デスクトップ
 <div>
 <img src="images/250718放課後デイサービス自動化標準のコピー ‐ Clipchampで作成.gif" width="830px" height="435px" alt="入力画面gif">
 </div>
+
 
 
 
